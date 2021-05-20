@@ -55,4 +55,4 @@ Expected result: Product is successfully added to cart and Cart icon shows 1 ite
 16) Click on the "Cesta" button
 17) Click on the "Eliminar" button
 
-Expected result: Product is removed from the cart and Cart icon shows 0 items. The message "Tu cesta de Amazon está vacía" is displayed
+Expected result: Product is removed from the cart and Cart icon shows 0 items. The message "Tu cesta de Amazon está vacía" is displayed.
