@@ -1,17 +1,7 @@
+<h2>Java/Selenium</h2>
+<br>
+
 <b>TEST CASES</b>
-
-
-- <i>[Amazon.es] - Search functionality validation</i>
-
-1) Navigate to "https://www.amazon.es/"
-2) Click on the "Aceptar" button to close pop-up
-3) Click on the "Todos los departamentos" drop-down menu
-4) Select the option "Música: CDs y vinilos"
-5) In the search box enter "Guitarricadelafuente"
-6) Click on the magnifier icon
-
-Expected result: The "Guitarricadelafuente" term appears in the results.
-
 
 - <i>[Amazon.es] - Adding an item to the cart</i>
 
@@ -56,3 +46,14 @@ Expected result: Product is successfully added to cart and Cart icon shows 1 ite
 17) Click on the "Eliminar" button
 
 Expected result: Product is removed from the cart and Cart icon shows 0 items. The message "Tu cesta de Amazon está vacía" is displayed.
+
+- <i>[Amazon.es] - Search functionality validation</i>
+
+1) Navigate to "https://www.amazon.es/"
+2) Click on the "Aceptar" button to close pop-up
+3) Click on the "Todos los departamentos" drop-down menu
+4) Select the option "Música: CDs y vinilos"
+5) In the search box enter "Guitarricadelafuente"
+6) Click on the magnifier icon
+
+Expected result: The "Guitarricadelafuente" term appears in the results.
